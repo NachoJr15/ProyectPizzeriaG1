@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/90doN7Jh3fGJvVUy6qWhAJ5aISkJOP5ozXFT5V1nkW8fX/PG9SVzUz3yaS0FjRXewovLgQx8eGTVI/XbDgyHg==",
+  "success": true,
+  "projectFilePath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HugoJr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
