@@ -10,3 +10,15 @@ D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CopyComplete
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.AssemblyInfo.cs
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.deps.json
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.dll
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.pdb
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CopyComplete

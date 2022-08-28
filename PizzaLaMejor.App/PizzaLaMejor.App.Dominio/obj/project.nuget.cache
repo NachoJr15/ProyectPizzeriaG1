@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDRASgGzuHwnTprdA0qmg3r5r9diy6+8Cc4B635KBfT9/8A3g2SNhFK1Ush4rGvlEDUOv/mlFZOATufQ4NVrAA==",
+  "dgSpecHash": "+FRVVUL6cfk6PwCnVjwQ3c6JeF5E8U6bi/HOIsZarXaJQrs2iX4RVPqlpv7E/I9vwka0k3CDlXauHXnFOtklmA==",
   "success": true,
-  "projectFilePath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HugoJr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
