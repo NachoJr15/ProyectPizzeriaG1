@@ -1,0 +1,12 @@
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csprojAssemblyReference.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.AssemblyInfoInputs.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.AssemblyInfo.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.deps.json
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.dll
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.pdb
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CopyComplete
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
