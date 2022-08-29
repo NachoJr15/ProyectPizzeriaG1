@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
+      "projectUniqueName": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
       "projectName": "PizzaLaMejor.App.Dominio",
-      "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
+      "projectPath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\HugoJr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\obj\\",
+      "outputPath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HugoJr\\AppData\\Roaming\\NuGet\\NuGet.Config"

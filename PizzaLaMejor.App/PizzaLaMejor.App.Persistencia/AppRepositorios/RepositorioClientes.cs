@@ -1,4 +1,6 @@
 using PizzaLaMejor.App.Dominio;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace PizzaLaMejor.App.Persistencia
 {
@@ -18,7 +20,7 @@ namespace PizzaLaMejor.App.Persistencia
 
         public Cliente ConsultarCliente(int Id)
         {
-            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p=>p.Id==Cliente.Id);
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p=> p.Id == Id);
             return clienteEncontrado;
         }
         public IEnumerable<Cliente> ConsultarCliente()
@@ -27,7 +29,7 @@ namespace PizzaLaMejor.App.Persistencia
         }
         public Cliente ActualizarCliente(Cliente cliente)
         {
-            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p=>p.Id==Cliente.Id);
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p => p.Id== cliente.Id);
             if(clienteEncontrado!=null){
                 clienteEncontrado.Cedula = cliente.Cedula;
                 clienteEncontrado.Nombres = cliente.Nombres;
@@ -46,7 +48,7 @@ namespace PizzaLaMejor.App.Persistencia
         }
         public void EliminarCliente(int Id)
         {
-            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p=>p.Id==Cliente.Id);
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p => p.Id == Id);
             if(clienteEncontrado!=null)
             return;
             _appContext.Clientes.Remove(clienteEncontrado);

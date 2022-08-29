@@ -6,10 +6,10 @@ namespace PizzaLaMejor.App.Persistencia
     public interface IRepositorioClientes 
     {
         Cliente CrearCliente(Cliente cliente);
-        Cliente ConsultarCliente(int Id);
+        Cliente ConsultarCliente(int id);
         IEnumerable<Cliente> ConsultarCliente();
         Cliente ActualizarCliente(Cliente cliente);
-        void EliminarCliente(int Id);
+        void EliminarCliente(int id);
 
 
 
