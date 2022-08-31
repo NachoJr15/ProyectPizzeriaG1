@@ -66,3 +66,9 @@ D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.dll
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.pdb
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.genruntimeconfig.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.csprojAssemblyReference.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.AssemblyInfoInputs.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.AssemblyInfo.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.csproj.CoreCompileInputs.cache
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.dll
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Consola\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Consola.pdb

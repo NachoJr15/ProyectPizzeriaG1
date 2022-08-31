@@ -6,11 +6,7 @@ namespace PizzaLaMejor.App.Persistencia
 {
     public class RepositorioClientes : IRepositorioClientes
     {
-        private readonly AppContext _appContext;
-        public RepositorioClientes(AppContext appContext)
-        {
-            _appContext = appContext;
-        }
+        private readonly AppContext _appContext = new AppContext();
         public Cliente CrearCliente(Cliente cliente)
         {
             var clienteAdicionado = _appContext.Clientes.Add(cliente);
@@ -27,6 +23,7 @@ namespace PizzaLaMejor.App.Persistencia
         {
             return _appContext.Clientes;  
         }
+        
         public Cliente ActualizarCliente(Cliente cliente)
         {
             var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p => p.Id== cliente.Id);

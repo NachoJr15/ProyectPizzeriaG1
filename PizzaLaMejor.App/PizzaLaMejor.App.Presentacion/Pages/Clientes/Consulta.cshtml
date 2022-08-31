@@ -1,0 +1,35 @@
+﻿@page
+@model PizzaLaMejor.App.Presentacion.Pages.ConsultaModel
+@{
+}
+
+<h1>Lista de Clientes</h1>
+
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>Cedula</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>CorreoElectronico</td>
+        <td>FechaNacimiento</td>
+        <td>Telefono</td>
+        <td>Direccion</td>
+        <td>Contraseña</td>
+    </tr>
+    
+        @foreach(var x in Model.ListaCliente){
+        <tr>    
+            <td>@x.Id</td>
+            <td>@x.Cedula</td>
+            <td>@x.Nombres</td>
+            <td>@x.Apellidos</td>
+            <td>@x.CorreoElectronico</td>
+            <td>@x.FechaNacimiento</td>
+            <td>@x.Telefono</td>
+            <td>@x.Direccion</td>
+            <td>@x.Contraseña</td>
+        </tr>    
+        }
+    
+</table>
