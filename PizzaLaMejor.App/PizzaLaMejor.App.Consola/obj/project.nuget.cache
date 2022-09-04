@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHlTZvwZCHPk/9w5nUEJiloL/AYYplUadLzSIExRadKV/QKEYta1ipPftXdm2LkqMfVXP3X9pYWWF/F6EsS78w==",
+  "dgSpecHash": "a6I9IualelDY1sOBhmsPB33YEOeXVqlK7bhJ3hKJ1ddH18fGjcmxLHfQeeGuoZdXEl0ntJtDIq2O1lQvhOFW8g==",
   "success": true,
-  "projectFilePath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Consola\\PizzaLaMejor.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.consola\\PizzaLaMejor.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HugoJr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

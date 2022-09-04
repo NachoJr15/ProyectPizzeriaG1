@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFMYUlxFiYhU5H9TEPfT9++8ZDHLRjyfS6E6WIAF0/iSo4dW7Z3hAxg3aMYVYrLIUqaAnaKbo05i9FVOFRtsKg==",
+  "dgSpecHash": "SBNwMMuCekJMGeF6SpyKNUv/Fe/E57bu7w5bBICBjAgcDPY555vxC1opzkMRR9+KmZLG2NT0eHaW8r9or4BsPQ==",
   "success": true,
-  "projectFilePath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DhVHe5N+iqiX38ab08oJow8TkqLwjksMtW7hLqrSaaOuyw676nwjVJaChN2jw7OS2LvsTnXaOXcjdHQ1EfhDkA==",
+  "dgSpecHash": "L0HyG8jKtlx6rxjlDRyXQl0lUsfaGU39IHP84XkJFyW5UJQ2fBElgKbePsqXZsm68K3A8EqaNYX8Pd3FJpeQSw==",
   "success": true,
-  "projectFilePath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\HugoJr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\HugoJr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\HugoJr\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

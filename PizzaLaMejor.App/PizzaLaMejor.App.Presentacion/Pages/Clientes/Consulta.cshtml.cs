@@ -13,13 +13,15 @@ namespace PizzaLaMejor.App.Presentacion.Pages
     {
         private readonly IRepositorioClientes _repoCliente;
 
-
         public IEnumerable<Cliente> ListaCliente{get;set;}
         public ConsultaModel(IRepositorioClientes repoCliente)
+        {
+            _repoCliente = repoCliente;
+        }
         public void OnGet()
         {
-            
-            listaCliente = _repoCliente.ConsultarCliente();
+            ListaCliente = new List<Cliente>();
+            ListaCliente = _repoCliente.ConsultarCliente();
         }
     }
 }

@@ -13,18 +13,24 @@ namespace PizzaLaMejor.App.Consola
         {
             Console.WriteLine("Hello World!");
             CrearCliente();
+            ///EliminarCliente(); ///Para eliminar se quita comentarios y se ponen en la linea anterior CrearCliente(), para que se pueda eliminar los datos señalados en la BD
         }
-        private void CrearCliente(){
+
+        private static void EliminarCliente()
+        {
+            _repoCliente.EliminarCliente(1); ///el numero es la posicion de los datos registrados en la BD
+        }
+        private static void CrearCliente(){
             var cliente = new Cliente
             {
-                Cedula = "12345",
-                Nombres = "Marcela Maria",
-                Apellidos = "Agudelo Giraldo",
-                CorreoElectronico = "julmar1326@gmail.com",
-                Telefono = "2111111",
-                Direccion = "Av 9 Cll 170",
-                Contraseña = "0000",
-                FechaNacimiento = new DateTime (2000,08,29) 
+                Cedula = "67890",
+                Nombres = "Mark",
+                Apellidos = "Antony",
+                CorreoElectronico = "mark1326@gmail.com",
+                Telefono = "4111111",
+                Direccion = "Av 170 Cll 9",
+                Contraseña = "1002",
+                FechaNacimiento = new DateTime (2001,09,29) 
             };
             _repoCliente.CrearCliente(cliente);
         }

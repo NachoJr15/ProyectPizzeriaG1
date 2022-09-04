@@ -1,3 +1,4 @@
+using System;
 using PizzaLaMejor.App.Dominio;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +7,13 @@ namespace PizzaLaMejor.App.Persistencia
 {
     public class RepositorioClientes : IRepositorioClientes
     {
-        private readonly AppContext _appContext = new AppContext();
+        private readonly AppContext _appContext;
+
+        public RepositorioClientes(AppContext appContext)
+        {
+            _appContext = appContext;
+        }
+
         public Cliente CrearCliente(Cliente cliente)
         {
             var clienteAdicionado = _appContext.Clientes.Add(cliente);
