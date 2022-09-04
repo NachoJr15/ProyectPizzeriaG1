@@ -34,3 +34,14 @@ D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.dll
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.pdb
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CopyComplete
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.deps.json
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.dll
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\bin\Debug\netstandard2.1\PizzaLaMejor.App.Dominio.pdb
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.AssemblyInfo.cs
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.csproj.CopyComplete
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.dll
+C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Persistencia\obj\Debug\netstandard2.1\PizzaLaMejor.App.Persistencia.pdb
