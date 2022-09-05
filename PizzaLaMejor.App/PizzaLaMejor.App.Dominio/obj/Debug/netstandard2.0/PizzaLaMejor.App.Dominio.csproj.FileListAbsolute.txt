@@ -25,11 +25,3 @@ D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.csproj.CoreCompileInputs.cache
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.dll
 D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.pdb
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\bin\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.deps.json
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\bin\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.dll
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\bin\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.pdb
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.csprojAssemblyReference.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.AssemblyInfoInputs.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.AssemblyInfo.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.dll
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Dominio\obj\Debug\netstandard2.0\PizzaLaMejor.App.Dominio.pdb

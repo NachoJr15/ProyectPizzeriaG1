@@ -163,27 +163,3 @@ C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\PizzaLaMejor.App.Presentacion.StaticWebAssets.xml
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.genruntimeconfig.cache
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Registro.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.csprojAssemblyReference.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\PizzaLaMejor.App.Presentacion.StaticWebAssets.Manifest.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\PizzaLaMejor.App.Presentacion.StaticWebAssets.xml
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.RazorAssemblyInfo.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.RazorAssemblyInfo.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.AssemblyInfoInputs.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.AssemblyInfo.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.TagHelpers.input.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.TagHelpers.output.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.RazorCoreGenerate.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.dll
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.pdb
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Consulta.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Registro.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.RazorTargetAssemblyInfo.cache
-C:\Users\magudelo\Documents\DLLO SOFTWARE\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\PizzaLaMejor.App.Presentacion.RazorTargetAssemblyInfo.cs

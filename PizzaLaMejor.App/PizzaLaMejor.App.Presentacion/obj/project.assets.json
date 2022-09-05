@@ -5741,19 +5741,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\magudelo\\.nuget\\packages\\": {}
+    "C:\\Users\\HugoJr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
       "projectName": "PizzaLaMejor.App.Presentacion",
-      "projectPath": "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
-      "packagesPath": "C:\\Users\\magudelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\obj\\",
+      "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
+      "packagesPath": "C:\\Users\\HugoJr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\magudelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HugoJr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5764,11 +5764,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj"
+            "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj"
             },
-            "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\magudelo\\Documents\\DLLO SOFTWARE\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj"
+            "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj"
             }
           }
         }
@@ -5799,7 +5799,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,9 +9,8 @@
 
 <div class="border">
     <form method="post">
-        <div asp-validation-sumary="ModelOnly" class="text-danger"></div>
         <div class="container" style="padding: 30px">
-            
+
             <div class="form-group">
                 <div class="row">
                     <div class="col-sm-2">
@@ -22,33 +21,34 @@
                     </div>
                     <span asp-validacion-for="cliente.Nombres" class="tex-danger"></span>
                 </div>
-            </div>        
+            </div>
 
             <div class="form-group">
-                    <div class="row">
-                        <div class="col-sm-2">
-                            <label asp-for="cliente.Apellidos"></label>
-                        </div>
-                        <div class="col-sm-4">
-                            <input asp-for="cliente.Apellidos" class="form-control">
-                        </div>
-                        <span asp-validacion-for="cliente.Apellidos" class="tex-danger"></span>
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="cliente.Apellidos"></label>
                     </div>
+                    <div class="col-sm-4">
+                        <input asp-for="cliente.Apellidos" class="form-control">
+                    </div>
+                    <span asp-validacion-for="cliente.Apellidos" class="tex-danger"></span>
                 </div>
-            </div>    
+            </div>
+        
 
 
-            <div class="form-group">
-                    <div class="row">
-                        <div class="col-sm-2">
-                            <input type="submit" value="Crear Cliente" class="btn btn-primary form-control">
-                        </div>
-                        <div class="col-sm-4">
-                            <a asp-page="/Index" class="btn btn-success form-control">Volver</a>
-                        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-2">
+                    <input type="submit" value="Crear Cliente" class="btn btn-primary form-control">
                 </div>
-            </div>    
-
+                <div class="col-sm-4">
+                    <a asp-page="/Index" class="btn btn-success form-control">Volver</a>
+                </div>
+            </div>
         </div>
-    </form>
+</div>
+
+
+</form>
 </div>
