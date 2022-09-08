@@ -2,3 +2,47 @@
 @model PizzaLaMejor.App.Presentacion.Pages.Edicion2Model
 @{
 }
+
+<h2>Consultar Cliente</h2>
+
+<div class="border">
+    <form method="post">
+        <label for="">Correo Electronico</label>
+        <input asp-for="cliente.CorreoElectronico">
+        <input type="submit" value="Consultar" class="btn btn-success form-control">
+    </form>
+
+</div>
+ 
+ <br>
+
+
+<div class="border" style="background-color: #83D2F0;">
+    <form method="post">
+
+        <input type="hidden" asp-for="cliente.Id">
+        <div class="input-group mb-3">
+
+            <input type="text" asp-for="cliente.Nombres" class="form-control" placeholder="Nombres">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.Apellidos" class="form-control" placeholder="Apellidos">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.Cedula" class="form-control" placeholder="Cedula">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.CorreoElectronico" class="form-control" placeholder="CorreoElectronico">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="submit" value="Guardar" class="btn btn primary form-control">
+        </div>
+
+
+    </form>
+
+</div>

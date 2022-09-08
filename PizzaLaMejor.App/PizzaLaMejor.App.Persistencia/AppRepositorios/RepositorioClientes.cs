@@ -22,6 +22,12 @@ namespace PizzaLaMejor.App.Persistencia
             var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p=> p.Id == Id);
             return clienteEncontrado;
         }
+
+        public Cliente ConsultarClientePorCorreo(string CorreoElectronico)
+        {
+            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p=> p.CorreoElectronico == CorreoElectronico);
+            return clienteEncontrado;
+        }
         public IEnumerable<Cliente> ConsultarCliente()
         {
             return _appContext.Clientes;  
