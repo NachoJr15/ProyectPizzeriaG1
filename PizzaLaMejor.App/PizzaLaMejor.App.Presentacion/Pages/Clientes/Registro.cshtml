@@ -35,7 +35,29 @@
                 </div>
             </div>
         
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="cliente.Cedula"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="cliente.Cedula" class="form-control">
+                    </div>
+                    <span asp-validacion-for="cliente.Cedula" class="tex-danger"></span>
+                </div>
+            </div>
 
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="cliente.CorreoElectronico"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="cliente.CorreoElectronico" class="form-control">
+                    </div>
+                    <span asp-validacion-for="cliente.CorreoElectronico" class="tex-danger"></span>
+                </div>
+            </div>
 
         <div class="form-group">
             <div class="row">

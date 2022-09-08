@@ -1,0 +1,37 @@
+﻿@page
+@model PizzaLaMejor.App.Presentacion.Pages.EdicionModel
+@{
+}
+
+<h2 class="text-primary">Edicion de Clientes</h2>
+
+<br>
+
+<div class="border">
+    <form method="post">
+        <input type="hidden" asp-for="cliente.Id">
+        <div class="input-group mb-3">
+
+            <input type="text" asp-for="cliente.Nombres" class="form-control" placeholder="Nombres">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.Apellidos" class="form-control" placeholder="Apellidos">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.Cedula" class="form-control" placeholder="Cedula">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.CorreoElectronico" class="form-control" placeholder="CorreoElectronico">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="submit" value="Guardar" class="btn btn primary form-control">
+        </div>
+
+
+    </form>
+
+</div>

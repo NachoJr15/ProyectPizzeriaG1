@@ -16,6 +16,7 @@
         <td>Telefono</td>
         <td>Direccion</td>
         <td>Contraseña</td>
+
     </tr>
     
         @foreach(var x in Model.ListaCliente){
@@ -29,6 +30,9 @@
             <td>@x.Telefono</td>
             <td>@x.Direccion</td>
             <td>@x.Contraseña</td>
+            <td>
+                <a type="button" asp-page="/Clientes/Edicion" class="btn btn-success" asp-route-clienteId=@x.Id>Editar</a>
+            </td>
         </tr>    
         }
     
