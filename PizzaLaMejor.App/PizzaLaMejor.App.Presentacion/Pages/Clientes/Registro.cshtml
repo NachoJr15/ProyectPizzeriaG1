@@ -5,7 +5,12 @@
 
 <br>
 
-<h2 class="text-info">Crear nuevo Cliente</h2>
+<h2 class="text-warning">Crear Cliente</h2>
+    <style>
+        body {
+            background-color: rgb(234, 237, 237);
+        }
+    </style>
 
 <div class="border">
     <form method="post">
@@ -50,6 +55,42 @@
             <div class="form-group">
                 <div class="row">
                     <div class="col-sm-2">
+                        <label asp-for="cliente.FechaNacimiento"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="cliente.FechaNacimiento" class="form-control">
+                    </div>
+                    <span asp-validacion-for="cliente.FechaNacimiento" class="tex-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="cliente.Telefono"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="cliente.Telefono" class="form-control">
+                    </div>
+                    <span asp-validacion-for="cliente.Telefono" class="tex-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="cliente.Direccion"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="cliente.Direccion" class="form-control">
+                    </div>
+                    <span asp-validacion-for="cliente.Direccion" class="tex-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
                         <label asp-for="cliente.CorreoElectronico"></label>
                     </div>
                     <div class="col-sm-4">
@@ -62,10 +103,10 @@
         <div class="form-group">
             <div class="row">
                 <div class="col-sm-2">
-                    <input type="submit" value="Crear Cliente" class="btn btn-primary form-control">
+                    <input type="submit" value="Crear" class="btn btn-warning form-control">
                 </div>
                 <div class="col-sm-4">
-                    <a asp-page="/Index" class="btn btn-success form-control">Volver</a>
+                    <a asp-page="/Index" class="btn btn-dark form-control">Volver</a>
                 </div>
             </div>
         </div>

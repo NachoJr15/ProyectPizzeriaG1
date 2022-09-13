@@ -32,7 +32,20 @@ namespace PizzaLaMejor.App.Presentacion.Pages
             {
                 return RedirectToPage("/Error");
             } 
-            return Page();
+            else
+            {
+                return Page();
+            }
+            
+        }
+        public async Task<ActionResult> OnPostEdit()
+        {
+            cliente = _repoCliente.ActualizarCliente(cliente);
+            if(cliente!=null)
+            {
+                return RedirectToPage("/Clientes/Consulta");
+            }
+            return RedirectToPage("/Error");
         }
     }
 }

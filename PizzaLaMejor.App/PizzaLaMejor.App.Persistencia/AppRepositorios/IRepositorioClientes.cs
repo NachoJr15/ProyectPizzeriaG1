@@ -10,7 +10,7 @@ namespace PizzaLaMejor.App.Persistencia
         Cliente ConsultarClientePorCorreo(string CorreoElectronico);
         IEnumerable<Cliente> ConsultarCliente();
         Cliente ActualizarCliente(Cliente cliente);
-        void EliminarCliente(int id);
+        void EliminarCliente(int clienteId);
 
 
 

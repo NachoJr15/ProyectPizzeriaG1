@@ -1,7 +1,9 @@
+
 using System;
 using PizzaLaMejor.App.Dominio;
 using System.Collections.Generic;
 using System.Linq;
+
 
 namespace PizzaLaMejor.App.Persistencia
 {
@@ -52,16 +54,18 @@ namespace PizzaLaMejor.App.Persistencia
             } 
             return clienteEncontrado;
         }
-        public void EliminarCliente(int Id)
+        
+        public void EliminarCliente(int clienteId)
         {
-            var clienteEncontrado = _appContext.Clientes.FirstOrDefault(p => p.Id == Id);
-            if(clienteEncontrado!=null)
-            return;
-            _appContext.Clientes.Remove(clienteEncontrado);
-            _appContext.SaveChanges();
-
+            var cliente=_appContext.Clientes.FirstOrDefault(c=> c.Id==clienteId);
+            if (cliente !=null){
+                _appContext.Clientes.Remove(cliente);
+                _appContext.SaveChanges();
+            }
         }
 
+        
+        
     } 
 }
 

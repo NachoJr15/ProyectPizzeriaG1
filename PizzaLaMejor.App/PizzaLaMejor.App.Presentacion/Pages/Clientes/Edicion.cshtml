@@ -3,11 +3,18 @@
 @{
 }
 
-<h2 class="text-primary">Edicion de Clientes</h2>
+<h2 class="text-warning">Editar datos del Cliente</h2>
+
+    <style>
+        body {
+            background-color: rgb(235, 237, 239);
+        }
+    </style>
 
 <br>
 
-<div class="border" style="background-color: #CB9217;">
+
+<div class="border" style="background-color: #BFC9CA;">
     <form method="post">
 
         <input type="hidden" asp-for="cliente.Id">
@@ -25,11 +32,23 @@
         </div>
 
         <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.FechaNacimiento" class="form-control" placeholder="FechaNacimiento">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.Telefono" class="form-control" placeholder="Telefono">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" asp-for="cliente.Direccion" class="form-control" placeholder="Direccion">
+        </div>
+
+        <div class="input-group mb-3">
             <input type="text" asp-for="cliente.CorreoElectronico" class="form-control" placeholder="CorreoElectronico">
         </div>
 
         <div class="input-group mb-3">
-            <input type="submit" value="Guardar" class="btn btn primary form-control">
+            <input type="submit" value="Guardar" class="btn btn dark form-control">
         </div>
 
 

@@ -12,16 +12,17 @@ namespace PizzaLaMejor.App.Presentacion.Pages
     public class ConsultaModel : PageModel
     {
         private readonly IRepositorioClientes _repoCliente;
-
+        [BindProperty]
         public IEnumerable<Cliente> ListaCliente{get;set;}
         public ConsultaModel(IRepositorioClientes repoCliente)
         {
             _repoCliente = repoCliente;
         }
-        public void OnGet()
+        public void OnGet(int clienteId)
         {
-            ListaCliente = new List<Cliente>();
+            ListaCliente = new List<Cliente>(); 
             ListaCliente = _repoCliente.ConsultarCliente();
+            _repoCliente.EliminarCliente(clienteId); 
         }
     }
 }

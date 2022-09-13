@@ -3,11 +3,20 @@
 @{
 }
 
-<h1>Lista de Clientes</h1>
+
+<h2 class="text-warning">Lista Clientes</h2>
+
+    <style>
+        body {
+            background-color: rgb(235, 237, 239);
+        }
+    </style>
+
+
 
 <table class="table">
     <tr>
-        <td>Id</td>
+        
         <td>Cedula</td>
         <td>Nombres</td>
         <td>Apellidos</td>
@@ -16,12 +25,13 @@
         <td>Telefono</td>
         <td>Direccion</td>
         <td>Contraseña</td>
+        
 
     </tr>
     
         @foreach(var x in Model.ListaCliente){
         <tr>    
-            <td>@x.Id</td>
+            
             <td>@x.Cedula</td>
             <td>@x.Nombres</td>
             <td>@x.Apellidos</td>
@@ -31,7 +41,10 @@
             <td>@x.Direccion</td>
             <td>@x.Contraseña</td>
             <td>
-                <a type="button" asp-page="/Clientes/Edicion" class="btn btn-success" asp-route-clienteId=@x.Id>Editar</a>
+                <a asp-page="/Clientes/Edicion" class="btn btn-warning" asp-route-clienteId=@x.Id>Editar</a>
+            </td>
+            <td>
+                <a asp-page="/Clientes/Consulta" class="btn btn-dark" asp-route-clienteId=@x.Id>Eliminar</a>
             </td>
         </tr>    
         }
