@@ -21,10 +21,9 @@
         <td>Nombres</td>
         <td>Apellidos</td>
         <td>CorreoElectronico</td>
-        <td>FechaNacimiento</td>
         <td>Telefono</td>
         <td>Direccion</td>
-        <td>Contraseña</td>
+        
         
 
     </tr>
@@ -36,10 +35,9 @@
             <td>@x.Nombres</td>
             <td>@x.Apellidos</td>
             <td>@x.CorreoElectronico</td>
-            <td>@x.FechaNacimiento</td>
             <td>@x.Telefono</td>
             <td>@x.Direccion</td>
-            <td>@x.Contraseña</td>
+           
             <td>
                 <a asp-page="/Clientes/Edicion" class="btn btn-warning" asp-route-clienteId=@x.Id>Editar</a>
             </td>
@@ -50,3 +48,12 @@
         }
     
 </table>
+        <br> 
+        <div class="input-group mb-3">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a class="btn btn-warning" asp-page="/Clientes/Registro">Registrar Nuevo Cliente</a>
+           
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+              
+            <a class="btn btn-warning" asp-page="/Clientes/Edicion2">Buscar Cliente</a>
+        </div>
