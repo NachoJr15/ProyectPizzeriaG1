@@ -168,3 +168,5 @@ C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Edicion2.cshtml.g.cs
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Menu.cshtml.g.cs
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Pedidos.cshtml.g.cs
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\RegistrarProducto.cshtml.g.cs
+C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\Productos.cshtml.g.cs

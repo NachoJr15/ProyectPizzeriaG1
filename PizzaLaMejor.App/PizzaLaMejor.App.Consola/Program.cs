@@ -8,15 +8,15 @@ namespace PizzaLaMejor.App.Consola
 {
     class Program
     {
-        private static IRepositorioClientes _repoCliente = new RepositorioClientes(new Persistencia.AppContext());
+        //private static IRepositorioClientes _repoCliente = new RepositorioClientes(new Persistencia.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            CrearCliente();
+            //CrearCliente();
             ///EliminarCliente(); ///Para eliminar se quita comentarios y se ponen en la linea anterior CrearCliente(), para que se pueda eliminar los datos señalados en la BD
         }
 
-        private static void EliminarCliente()
+        /*private static void EliminarCliente()
         {
             _repoCliente.EliminarCliente(1); ///el numero es la posicion de los datos registrados en la BD
         }
@@ -34,5 +34,6 @@ namespace PizzaLaMejor.App.Consola
             };
             _repoCliente.CrearCliente(cliente);
         }
+        */
     }
 }
