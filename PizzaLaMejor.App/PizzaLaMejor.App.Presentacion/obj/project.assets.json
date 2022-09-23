@@ -5746,11 +5746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
+      "projectUniqueName": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
       "projectName": "PizzaLaMejor.App.Presentacion",
-      "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
+      "projectPath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
       "packagesPath": "C:\\Users\\HugoJr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\obj\\",
+      "outputPath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HugoJr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5764,11 +5764,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj"
+            "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj": {
+              "projectPath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Dominio\\PizzaLaMejor.App.Dominio.csproj"
             },
-            "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj"
+            "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj": {
+              "projectPath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Persistencia\\PizzaLaMejor.App.Persistencia.csproj"
             }
           }
         }

@@ -170,3 +170,12 @@ C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Pedidos.cshtml.g.cs
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\RegistrarProducto.cshtml.g.cs
 C:\Users\HugoJr\Documents\GitHub\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\Productos.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Carrito.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Edicion.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Edicion2.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Registro.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Menu.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Pedidos.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\Productos.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Productos\RegistrarProducto.cshtml.g.cs
+D:\MisionTIC2022\Ciclo_3\Desarrollo_Software\ProyectoPizzeriaG1\ProyectPizzeriaG1\PizzaLaMejor.App\PizzaLaMejor.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroUsuario.cshtml.g.cs
