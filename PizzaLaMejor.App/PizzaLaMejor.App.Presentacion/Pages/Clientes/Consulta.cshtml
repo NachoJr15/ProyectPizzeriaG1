@@ -39,7 +39,7 @@
             <td>@x.Direccion</td>
            
             <td>
-                <a asp-page="/Clientes/Edicion" class="btn btn-warning" asp-route-clienteId=@x.Id>Editar</a>
+                <a asp-page="/Clientes/Edicion" class="btn btn-secondary" asp-route-clienteId=@x.Id>Editar</a>
             </td>
             <td>
                 <a asp-page="/Clientes/Consulta" class="btn btn-dark" asp-route-clienteId=@x.Id>Eliminar</a>
@@ -50,12 +50,13 @@
 </table>
         <br> 
         <div class="input-group mb-3">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a class="btn btn-warning" asp-page="/Clientes/Registro">Registrar Nuevo Cliente</a>
-           
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-              
-            <a class="btn btn-warning" asp-page="/Clientes/Edicion2">Buscar Cliente</a>
+            
+            <a class="btn btn-warning" asp-page="/Clientes/Registro" style="display: block; margin: 0 auto;">Registrar Nuevo Cliente</a>
+                        
+            <a class="btn btn-warning" asp-page="/Clientes/Edicion2" style="display: block; margin: 0 auto;">Buscar Cliente</a>
         </div>
+
+
+
 
         

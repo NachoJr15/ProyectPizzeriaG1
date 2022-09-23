@@ -1,0 +1,60 @@
+﻿@page
+@using PizzaLaMejor.App.Dominio
+@model PizzaLaMejor.App.Presentacion.Pages.RegistrarPedidoModel
+@{
+}
+
+<br>
+
+<h2 class="text-warning" font face="verdana">Registrar Pedido</h2>
+    <style>
+        body {
+            background-color: rgb(234, 237, 237);
+        }
+    </style>
+
+<div class="border">
+    <form method="post">
+        <div class="container" style="padding: 30px">
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="pedido.FechaPedido"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="pedido.FechaPedido" class="form-control">
+                    </div>
+                    <span asp-validacion-for="pedido.FechaPedido" class="tex-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label asp-for="pedido.Total"></label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input asp-for="pedido.Total" class="form-control">
+                    </div>
+                    <span asp-validacion-for="pedido.Total" class="tex-danger"></span>
+                </div>
+            </div>
+       
+            <br>
+
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <input type="submit" value="Crear" class="btn btn-warning form-control">
+                    </div>
+                    <div class="col-sm-4">
+                        <a asp-page="/Index" class="btn btn-dark form-control">Volver</a>
+                    </div>
+                </div>
+            </div>
+</div>
+
+
+</form>
+</div>

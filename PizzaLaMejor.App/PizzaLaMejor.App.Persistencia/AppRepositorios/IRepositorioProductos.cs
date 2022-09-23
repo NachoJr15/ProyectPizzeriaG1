@@ -7,7 +7,6 @@ namespace PizzaLaMejor.App.Persistencia
     {
         Producto CrearProducto(Producto producto);
         Producto ConsultarProducto(int id);
-        //Producto ConsultarProductoPorCorreo(string CorreoElectronico);
         IEnumerable<Producto> ConsultarProducto();
         Producto ActualizarProducto(Producto producto);
         void EliminarProducto(int ProductoId);

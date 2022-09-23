@@ -13,7 +13,7 @@ namespace PizzaLaMejor.App.Persistencia
         {
             if(!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog=PizzeriaG1");
+                optionsBuilder.UseSqlServer("Data Source=SQL5063.site4now.net;Initial Catalog=db_a8d220_pizzalamejor;User Id=db_a8d220_pizzalamejor_admin;Password=20Septiembre2022");
             }
         }
     }   

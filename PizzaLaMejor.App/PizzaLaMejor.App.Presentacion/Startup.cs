@@ -27,6 +27,8 @@ namespace PizzaLaMejor.App.Presentacion
             services.AddRazorPages();
             services.AddSingleton<IRepositorioClientes,RepositorioClientes>();
             services.AddSingleton<IRepositorioProductos,RepositorioProductos>();
+            services.AddSingleton<IRepositorioPedidos,RepositorioPedidos>();
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,6 +49,8 @@ namespace PizzaLaMejor.App.Presentacion
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
