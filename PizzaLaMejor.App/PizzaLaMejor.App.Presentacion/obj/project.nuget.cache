@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oxb7IyZqC8JVFFkW7GSdqPcVBGpljfkNmR+/318S9WLWnJjeyGoLGzCRGq7DCuhP11tvbvTmguMo36+pAF/4AQ==",
+  "dgSpecHash": "vV3E3GRzAaYwLA8kYOw6bnTnsClqvXyHxJNNg84LTp7LzdkE4L8a2PyF2ihGojKe0mbU7XFItePed9+mujBFdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HugoJr\\Documents\\GitHub\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
+  "projectFilePath": "D:\\MisionTIC2022\\Ciclo_3\\Desarrollo_Software\\ProyectoPizzeriaG1\\ProyectPizzeriaG1\\PizzaLaMejor.App\\PizzaLaMejor.App.Presentacion\\PizzaLaMejor.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HugoJr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HugoJr\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
