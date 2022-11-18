@@ -1,24 +1,206 @@
 ﻿@page
 @model IndexModel
-@{
-    ViewData["Title"] = "Home page";
-}
+@{<!DOCTYPE html>
+<html lang="en">
 
-<html>
-
-    <head>
-        <h2><img src="https://static.tildacdn.com/tild3433-3334-4435-b030-343438343961/photo.png" alt="carrito" style="width:px;height:75px;">MAGNA PIZZA</h2>
-    <title>Home</title>
-    <style>
-        body {
-            background-color: rgb(253, 235, 208);
-        }
-    </style>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Tienda</title>
+</head>
 
 <body>
-    <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSy8gJUCgDi_jclaK4Aeriqk4jMwdcNV2Ow&usqp=CAU" alt="ham jyq" style="width:px;height:100px;"></p>
-    <p><img src="https://scontent.fctg1-4.fna.fbcdn.net/v/t31.18172-8/240249_211392265568187_8333777_o.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHxGbHBiBXoC0Pf6RGFiEEEwMWb6mpxYO_AxZvqanFg7wk6RQelKJo2MiSfEM1mbfHtOC5_b1i9QO6UjXpEBWej&_nc_ohc=DtDoIxLYd2wAX8UaoOX&_nc_ht=scontent.fctg1-4.fna&oh=00_AT_JZtgZrpaaNaE7jdxoV74skvP7dBH0THuvi-3dNnAJXQ&oe=63388263" alt="ham jyq" style="width:px;height:100px;"></p>
-    <p><img src="https://www.pikpng.com/pngl/b/88-884718_free-png-download-hot-dog-free-png-images.png" alt="ham jyq" style="width:px;height:100px;"></p>
+    <header>
+        <div class="container">
+            <h1 class="text-center">Menu</h1>
+            <hr>
+        </div>
+    </header>
+    <!-- START SECTION STORE -->
+    <h3 class="text-center">Elija su pedido</h3>
+    <section class="store">
+        <div class="container">
+            <div class="items">
+                <div class="row">
+                    <div class="col-12 col-md-6" style="background-color:#ffffff">
+                        <div class="item shadow mb-4" >
+                            <h3 class="item-title">Pizza mediana</h3>
+
+                            <img class="item-image" src="https://i.ibb.co/YQBZwH4/pizza-familiar.png">
+                            <div class="item-details">
+                                <h4 class="item-price">$20000</h4>
+                                <button class="item-button btn btn-primary addToCart" style= "backgroud-color: #ffc107">Añadir al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="item shadow mb-4">
+                            <h3 class="item-title">Pizza familiar</h3>
+
+                            <img class="item-image" src="https://i.ibb.co/xsBFKwF/piz.png">
+                            <div class="item-details">
+                                <h4 class="item-price">$38900</h4>
+                                <button class="item-button btn btn-primary addToCart">Añadir al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="item shadow mb-4">
+                            <h3 class="item-title">Hamburguesa sencilla</h3>
+
+                            <img class="item-image-ham" src="https://i.ibb.co/vQ1c2C8/burger-sandwich-PNG96755.png">
+                            <div class="item-details">
+                                <h4 class="item-price">$15000</h4>
+                                <button class="item-button btn btn-primary addToCart">Añadir al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="item shadow mb-4">
+                            <h3 class="item-title">Hamburguesa doble carne</h3>
+
+                            <img class="item-image-ham" src="https://i.ibb.co/zScxnYR/platel1-png.jpg">
+                            <div class="item-details">
+                                <h4 class="item-price">$25000</h4>
+                                <button class="item-button btn btn-primary addToCart">Añadir al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="item shadow mb-4">
+                            <h3 class="item-title">Perro combo</h3>
+
+                            <img class="item-image" src="https://i.ibb.co/8mrW6xW/plate3-png.png">
+                            <div class="item-details">
+                                <h4 class="item-price">$15000</h4>
+                                <button class="item-button btn btn-primary addToCart">Añadir al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="item shadow mb-4">
+                            <h3 class="item-title">Perro sencillo</h3>
+
+                            <img class="item-image" src="https://i.ibb.co/RgK932y/390-3901749-hot-dog-perros-caliente-colombiano-png.png">
+                            <div class="item-details">
+                                <h4 class="item-price">$10000</h4>
+                                <button type="button" data-dismiss="toast" aria-label="Close"class="item-button btn btn-primary addToCart">Añadir al carrito</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END SECTION STORE -->
+    <!-- START SECTION SHOPPING CART -->
+    <section class="shopping-cart">
+        <div class="container">
+            <h1 class="text-center">Carrito</h1>
+            <hr>
+            <div class="row">
+                <div class="col-6">
+                    <div class="shopping-cart-header">
+                        <h6>Producto</h6>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="shopping-cart-header">
+                        <h6 class="text-truncate">Precio</h6>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="shopping-cart-header">
+                        <h6>Cantidad</h6>
+                    </div>
+                </div>
+            </div>
+            <!-- ? START SHOPPING CART ITEMS -->
+            <div class="shopping-cart-items shoppingCartItemsContainer">
+            </div>
+            <!-- ? END SHOPPING CART ITEMS -->
+
+            <!-- START TOTAL -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="shopping-cart-total d-flex align-items-center">
+                        <p class="mb-0">Total</p>
+                        <p class="ml-4 mb-0 shoppingCartTotal">$0</p>
+                        <div class="toast ml-auto bg-info" role="alert" aria-live="assertive" aria-atomic="true"
+                            data-delay="2000">
+                            <div class="toast-header">
+                                <span>✅</span>
+                                <strong class="mr-auto ml-1 text-secondary">Elemento en el carrito</strong>
+                                <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="toast-body text-white">
+                                Se aumentó correctamente la cantidad
+                            </div>
+                        </div>
+                        <button class="btn btn-success ml-auto comprarButton" type="button" data-toggle="modal"
+                            data-target="#comprarModal"style="background-color:red;" >Comprar</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- END TOTAL -->
+
+            <!-- START MODAL COMPRA -->
+            <div class="modal fade" id="comprarModal" tabindex="-1" aria-labelledby="comprarModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="comprarModalLabel">Gracias por su compra</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <p>Pronto recibirá su pedido</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END MODAL COMPRA -->
+
+
+        </div>
+
+    </section>
+    <!-- END SECTION SHOPPING CART -->
+
+
+    <!-- START FOOTER -->
+    <footer class="bg-dark p-3 mt-5">
+        <p class="text-center m-0 text-muted">Magna pizza</p>
+    </footer>
+    <!-- END FOOTER -->
+
+
+
+
+    <!-- SCRIPTS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+
+    <script src="./tienda.js"></script>
+
 </body>
-</html>
+
+</html>}
